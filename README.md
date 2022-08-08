@@ -1,1 +1,0 @@
-![Alt](./Snowstry-banner.png)
